@@ -1,5 +1,6 @@
 <xml>
-	<Full_name>"Ahanov Sultan Alievich"</Full_name>
+	<FullName>Ahanov Sultan Alievich</FullName>
 	<Age>30</Age>
 	<Pets>null</Pets>
 	<Salary>"$1000"</Salary>
+</xml>
